@@ -4,11 +4,11 @@ author: nimod (Kim Bomin)
 avatar: /logo.jpg
 email: nimod1234@g.skku.edu
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
+# plugins:
+#   - jekyll-seo-tag
+#   - jekyll-feed
+#   - jekyll-sitemap
+#   - jekyll-paginate
 
 paginate: 10
 
