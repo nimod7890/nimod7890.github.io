@@ -14,7 +14,7 @@ layout: post
 
 = 각 차원의 조건부 확률분포의 곱
 
-→ 모든 $x_i$가 관측변수가 되기 때문에 FVBN(Fully Visible Belief Network)라고 부름
+→ 모든 $$x_i$$가 관측변수가 되기 때문에 FVBN(Fully Visible Belief Network)라고 부름
 
 장점: 모델이 단순해서 안정적인 학습 가능
 
