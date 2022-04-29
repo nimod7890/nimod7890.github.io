@@ -1,6 +1,8 @@
 ---
 title: Autogressive Model
 layout: post
+categories:
+  - Generative Model
 permalink: /categories/Generative Model
 ---
 
