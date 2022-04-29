@@ -1,5 +1,7 @@
 ---
-layout: post
+title: Autogressive Model
+layout: category
+permalink: /categories/Generative Model
 ---
 
 # Autogressive model

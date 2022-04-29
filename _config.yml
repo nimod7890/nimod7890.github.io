@@ -4,6 +4,10 @@ author: nimod (Kim Bomin)
 avatar: /logo.jpg
 email: nimod1234@g.skku.edu
 
+category_archive:
+  type: liquid
+  path: /categories/
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
