@@ -1,6 +1,6 @@
 ---
 title: Autogressive Model
-layout: category
+layout: post
 permalink: /categories/Generative Model
 ---
 
