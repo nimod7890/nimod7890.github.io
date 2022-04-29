@@ -1,4 +1,5 @@
 *.gem
 _site
+_posts/2016-05-20-my-example-post.md
+_posts/2016-05-20-welcome-to-jekyll.md
 Gemfile.lock
-_posts/2016*
